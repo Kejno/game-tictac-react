@@ -11,9 +11,9 @@
   height: 400px;
   margin: auto;
   text-align: center;
-  border: 1px solid black;
   position: relative;
   background: rgb(201, 201, 255);
+  
 }
 .gameOver{
   width: 150px;
